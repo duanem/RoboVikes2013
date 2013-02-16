@@ -1,6 +1,6 @@
 CommandBassedRobotTemplate_partialImage/Debug/Objects/Prototyping/OI.o:  \
- C:/WindRiver/workspace/Prototyping/OI.cpp \
-  C:/WindRiver/workspace/Prototyping/OI.h \
+ C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/OI.cpp \
+  C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/OI.h \
   C:/WindRiver/vxworks-6.3/target/h/WPILib/WPILib.h \
   C:/WindRiver/vxworks-6.3/target/h/string.h \
   C:/WindRiver/vxworks-6.3/target/h/types/vxANSI.h \
@@ -379,49 +379,49 @@ CommandBassedRobotTemplate_partialImage/Debug/Objects/Prototyping/OI.o:  \
   C:/WindRiver/vxworks-6.3/target/h/WPILib/Vision/ColorImage.h \
   C:/WindRiver/vxworks-6.3/target/h/WPILib/WPIErrors.h \
   C:/WindRiver/vxworks-6.3/target/h/WPILib/SmartDashboard/SmartDashboard.h \
-  C:/WindRiver/workspace/Prototyping/Commands/AutonomousCommand.h \
+  C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/AutonomousCommand.h \
   C:/WindRiver/vxworks-6.3/target/h/WPILib/Commands/Subsystem.h \
-  C:/WindRiver/workspace/Prototyping/Commands/../Robot.h \
+  C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/../Robot.h \
   C:/WindRiver/vxworks-6.3/target/h/WPILib/WPILib.h \
   C:/WindRiver/vxworks-6.3/target/h/WPILib/Commands/Command.h \
-  C:/WindRiver/workspace/Prototyping/Commands/../RobotMap.h \
+  C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/../RobotMap.h \
   C:/WindRiver/vxworks-6.3/target/h/WPILib/LiveWindow/LiveWindow.h \
-  C:/WindRiver/workspace/Prototyping/Commands/../Commands/AutonomousCommand.h \
-  C:/WindRiver/workspace/Prototyping/Commands/../Subsystems/Arm.h \
+  C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/../Commands/AutonomousCommand.h \
+  C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/../Subsystems/Arm.h \
   C:/WindRiver/vxworks-6.3/target/h/WPILib/Commands/Subsystem.h \
   C:/WindRiver/vxworks-6.3/target/h/WPILib/WPILib.h \
-  C:/WindRiver/workspace/Prototyping/Commands/../Subsystems/Chassis.h \
-  C:/WindRiver/workspace/Prototyping/Commands/../Subsystems/Conveyor.h \
-  C:/WindRiver/workspace/Prototyping/Commands/../Subsystems/Intake.h \
-  C:/WindRiver/workspace/Prototyping/Commands/../Subsystems/Lights.h \
-  C:/WindRiver/workspace/Prototyping/Commands/../Subsystems/Pressurizer.h \
-  C:/WindRiver/workspace/Prototyping/Commands/../Subsystems/Shifter.h \
-  C:/WindRiver/workspace/Prototyping/Commands/../Subsystems/Shooter.h \
-  C:/WindRiver/workspace/Prototyping/Commands/../OI.h \
-  C:/WindRiver/workspace/Prototyping/Commands/../LowPassFilter.h \
+  C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/../Subsystems/Chassis.h \
+  C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/../Subsystems/Conveyor.h \
+  C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/../Subsystems/Intake.h \
+  C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/../Subsystems/Lights.h \
+  C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/../Subsystems/Pressurizer.h \
+  C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/../Subsystems/Shifter.h \
+  C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/../Subsystems/Shooter.h \
+  C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/../OI.h \
+  C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/../LowPassFilter.h \
   C:/WindRiver/vxworks-6.3/target/h/WPILib/Joystick.h \
-  C:/WindRiver/workspace/Prototyping/Commands/Compress.h \
-  C:/WindRiver/workspace/Prototyping/Commands/ConveyIn.h \
-  C:/WindRiver/workspace/Prototyping/Commands/ConveyModeSwitch.h \
-  C:/WindRiver/workspace/Prototyping/Commands/ConveyOut.h \
-  C:/WindRiver/workspace/Prototyping/Commands/ConveyorRepeat.h \
-  C:/WindRiver/workspace/Prototyping/Commands/GoToGround.h \
-  C:/WindRiver/workspace/Prototyping/Commands/IntakeModeSwitch.h \
+  C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/Compress.h \
+  C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/ConveyIn.h \
+  C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/ConveyModeSwitch.h \
+  C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/ConveyOut.h \
+  C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/ConveyorRepeat.h \
+  C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/GoToGround.h \
+  C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/IntakeModeSwitch.h \
   C:/WindRiver/vxworks-6.3/target/h/WPILib/Commands/CommandGroup.h \
-  C:/WindRiver/workspace/Prototyping/Commands/IntakeOnOff.h \
-  C:/WindRiver/workspace/Prototyping/Commands/IntakeRepeat.h \
-  C:/WindRiver/workspace/Prototyping/Commands/IntakeSwitch.h \
-  C:/WindRiver/workspace/Prototyping/Commands/LightsOn.h \
-  C:/WindRiver/workspace/Prototyping/Commands/ManualDrive.h \
-  C:/WindRiver/workspace/Prototyping/Commands/ManualShooter.h \
-  C:/WindRiver/workspace/Prototyping/Commands/PivotDown.h \
-  C:/WindRiver/workspace/Prototyping/Commands/PivotOff.h \
-  C:/WindRiver/workspace/Prototyping/Commands/PivotUp.h \
-  C:/WindRiver/workspace/Prototyping/Commands/Shift.h \
-  C:/WindRiver/workspace/Prototyping/Commands/SpoilSwitch.h \
-  C:/WindRiver/workspace/Prototyping/Commands/SwitchStop.h
+  C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/IntakeOnOff.h \
+  C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/IntakeRepeat.h \
+  C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/IntakeSwitch.h \
+  C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/LightsOn.h \
+  C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/ManualDrive.h \
+  C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/ManualShooter.h \
+  C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/PivotDown.h \
+  C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/PivotOff.h \
+  C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/PivotUp.h \
+  C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/Shift.h \
+  C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/SpoilSwitch.h \
+  C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/SwitchStop.h
 
-C:/WindRiver/workspace/Prototyping/OI.h:
+C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/OI.h:
 
 C:/WindRiver/vxworks-6.3/target/h/WPILib/WPILib.h:
 
@@ -1179,84 +1179,84 @@ C:/WindRiver/vxworks-6.3/target/h/WPILib/WPIErrors.h:
 
 C:/WindRiver/vxworks-6.3/target/h/WPILib/SmartDashboard/SmartDashboard.h:
 
-C:/WindRiver/workspace/Prototyping/Commands/AutonomousCommand.h:
+C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/AutonomousCommand.h:
 
 C:/WindRiver/vxworks-6.3/target/h/WPILib/Commands/Subsystem.h:
 
-C:/WindRiver/workspace/Prototyping/Commands/../Robot.h:
+C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/../Robot.h:
 
 C:/WindRiver/vxworks-6.3/target/h/WPILib/WPILib.h:
 
 C:/WindRiver/vxworks-6.3/target/h/WPILib/Commands/Command.h:
 
-C:/WindRiver/workspace/Prototyping/Commands/../RobotMap.h:
+C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/../RobotMap.h:
 
 C:/WindRiver/vxworks-6.3/target/h/WPILib/LiveWindow/LiveWindow.h:
 
-C:/WindRiver/workspace/Prototyping/Commands/../Commands/AutonomousCommand.h:
+C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/../Commands/AutonomousCommand.h:
 
-C:/WindRiver/workspace/Prototyping/Commands/../Subsystems/Arm.h:
+C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/../Subsystems/Arm.h:
 
 C:/WindRiver/vxworks-6.3/target/h/WPILib/Commands/Subsystem.h:
 
 C:/WindRiver/vxworks-6.3/target/h/WPILib/WPILib.h:
 
-C:/WindRiver/workspace/Prototyping/Commands/../Subsystems/Chassis.h:
+C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/../Subsystems/Chassis.h:
 
-C:/WindRiver/workspace/Prototyping/Commands/../Subsystems/Conveyor.h:
+C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/../Subsystems/Conveyor.h:
 
-C:/WindRiver/workspace/Prototyping/Commands/../Subsystems/Intake.h:
+C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/../Subsystems/Intake.h:
 
-C:/WindRiver/workspace/Prototyping/Commands/../Subsystems/Lights.h:
+C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/../Subsystems/Lights.h:
 
-C:/WindRiver/workspace/Prototyping/Commands/../Subsystems/Pressurizer.h:
+C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/../Subsystems/Pressurizer.h:
 
-C:/WindRiver/workspace/Prototyping/Commands/../Subsystems/Shifter.h:
+C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/../Subsystems/Shifter.h:
 
-C:/WindRiver/workspace/Prototyping/Commands/../Subsystems/Shooter.h:
+C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/../Subsystems/Shooter.h:
 
-C:/WindRiver/workspace/Prototyping/Commands/../OI.h:
+C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/../OI.h:
 
-C:/WindRiver/workspace/Prototyping/Commands/../LowPassFilter.h:
+C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/../LowPassFilter.h:
 
 C:/WindRiver/vxworks-6.3/target/h/WPILib/Joystick.h:
 
-C:/WindRiver/workspace/Prototyping/Commands/Compress.h:
+C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/Compress.h:
 
-C:/WindRiver/workspace/Prototyping/Commands/ConveyIn.h:
+C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/ConveyIn.h:
 
-C:/WindRiver/workspace/Prototyping/Commands/ConveyModeSwitch.h:
+C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/ConveyModeSwitch.h:
 
-C:/WindRiver/workspace/Prototyping/Commands/ConveyOut.h:
+C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/ConveyOut.h:
 
-C:/WindRiver/workspace/Prototyping/Commands/ConveyorRepeat.h:
+C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/ConveyorRepeat.h:
 
-C:/WindRiver/workspace/Prototyping/Commands/GoToGround.h:
+C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/GoToGround.h:
 
-C:/WindRiver/workspace/Prototyping/Commands/IntakeModeSwitch.h:
+C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/IntakeModeSwitch.h:
 
 C:/WindRiver/vxworks-6.3/target/h/WPILib/Commands/CommandGroup.h:
 
-C:/WindRiver/workspace/Prototyping/Commands/IntakeOnOff.h:
+C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/IntakeOnOff.h:
 
-C:/WindRiver/workspace/Prototyping/Commands/IntakeRepeat.h:
+C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/IntakeRepeat.h:
 
-C:/WindRiver/workspace/Prototyping/Commands/IntakeSwitch.h:
+C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/IntakeSwitch.h:
 
-C:/WindRiver/workspace/Prototyping/Commands/LightsOn.h:
+C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/LightsOn.h:
 
-C:/WindRiver/workspace/Prototyping/Commands/ManualDrive.h:
+C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/ManualDrive.h:
 
-C:/WindRiver/workspace/Prototyping/Commands/ManualShooter.h:
+C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/ManualShooter.h:
 
-C:/WindRiver/workspace/Prototyping/Commands/PivotDown.h:
+C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/PivotDown.h:
 
-C:/WindRiver/workspace/Prototyping/Commands/PivotOff.h:
+C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/PivotOff.h:
 
-C:/WindRiver/workspace/Prototyping/Commands/PivotUp.h:
+C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/PivotUp.h:
 
-C:/WindRiver/workspace/Prototyping/Commands/Shift.h:
+C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/Shift.h:
 
-C:/WindRiver/workspace/Prototyping/Commands/SpoilSwitch.h:
+C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/SpoilSwitch.h:
 
-C:/WindRiver/workspace/Prototyping/Commands/SwitchStop.h:
+C:/Documents\ and\ Settings/vandenrobots/My\ Documents/GitHub/RoboVikes2013/Robovikes2013/Commands/SwitchStop.h:
