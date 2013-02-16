@@ -19,7 +19,7 @@
 /**
  *
  *
- * @author ExampleAuthor
+ * @author aaronistheman
  */
 class AutomaticShifters: public Command {
 public:
@@ -29,6 +29,26 @@ public:
 	virtual bool IsFinished();
 	virtual void End();
 	virtual void Interrupted();
+	
+	double GetSlope() const
+	{ return slope; }
+	
+	double GetCurrent() const
+	{ return prevCurrent; }
+	
+	
+private:	
+	static const double k10ms = .010;
+	double slope; //holds slope of current over time 
+		          //to decide when to shift
+	double Sol; //solenoid value
+	double shiftCount;
+	double prevCurrent; //hold current sample
+	
+	static void gGetCurrentSlope(void* param);
+	void calcCurrentSlope();
+	
+	Notifier currentSampler;
 };
 
 #endif
